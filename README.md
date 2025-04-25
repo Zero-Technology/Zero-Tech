@@ -1,4 +1,4 @@
-                                                # Zero Tech
+                                    # Zero Tech
 
 
 ZeroTech is a Lua script designed for Counter-Strike: Global Offensive (CS:GO) to enhance gameplay through customizable automation and features. This script is intended for use in environments that allow Lua scripting, such as specific CS:GO cheat or mod platforms (e.g., Gamesense, Neverlose). Use responsibly and ensure compliance with platform rules and game terms of service.
