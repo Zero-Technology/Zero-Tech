@@ -13,7 +13,7 @@ ZeroTech is a Lua script designed for Counter-Strike: Global Offensive (CS:GO) t
 - Visuals: Keybinds, Watermark (2 ver), Spectator list
 
 
-- Misc: Bunnyhop, auto-strafe are improved at this lua.
+- Misc: Hitlogs and awesome buy bot 
 
 
 
